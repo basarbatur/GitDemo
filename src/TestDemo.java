@@ -5,4 +5,14 @@ public class TestDemo {
 		System.out.println("this is a Git practice project");
 	}
 
+	@Test
+	public void test1() {
+		System.out.println("Test 1");
+	}
+	
+	@Test
+	public void test3() {
+		System.out.println("Test 3");
+		System.out.println("Test 3");
+	}
 }
