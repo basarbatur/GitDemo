@@ -10,4 +10,9 @@ public class TestDemo {
 		System.out.println("Test 1");
 	}
 
+	@Test
+	public void test2() {
+		System.out.println("Test 2");
+	}
+
 }
